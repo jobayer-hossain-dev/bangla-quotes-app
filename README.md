@@ -34,7 +34,7 @@ bangla-quotes-app/
 
 ```bash
 # Clone repository
-git clone https://github.com/jobayerhossain-ai/bangla-quotes-app.git
+git clone https://github.com/jobayer-hossain-dev/bangla-quotes-app.git
 cd bangla-quotes-app
 
 # Install dependencies across all workspace packages
@@ -45,6 +45,13 @@ npm run dev
 ```
 
 ---
+
+## Links
+
+- [Source code](https://github.com/jobayer-hossain-dev/bangla-quotes-app)
+- [Developer portfolio](https://jobayerportfolio.vercel.app)
+
+A standalone public deployment URL is not currently documented for this repository.
 
 ## 📄 License
 
